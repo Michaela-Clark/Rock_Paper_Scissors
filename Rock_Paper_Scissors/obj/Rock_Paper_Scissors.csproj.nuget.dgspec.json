@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj": {}
+    "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj": {
+    "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
         "projectName": "Rock_Paper_Scissors",
-        "projectPath": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+        "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
