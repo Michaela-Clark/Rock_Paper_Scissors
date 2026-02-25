@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A8E76B2-93AD-FF62-9071-979D698B962B}|Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj|c:\\users\\owner\\source\\repos\\rock_paper_scissors\\rock_paper_scissors\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8E76B2-93AD-FF62-9071-979D698B962B}|Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj|solutionrelative:rock_paper_scissors\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8E76B2-93AD-FF62-9071-979D698B962B}|Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj|c:\\users\\owner\\source\\repos\\rock_paper_scissors\\rock_paper_scissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8E76B2-93AD-FF62-9071-979D698B962B}|Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj|solutionrelative:rock_paper_scissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rock_Paper_Scissors\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rock_Paper_Scissors\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\ComputerPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rock_Paper_Scissors\\ComputerPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rock_Paper_Scissors\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Rock_Paper_Scissors.csproj",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+              "RelativeDocumentMoniker": "Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+              "RelativeToolTip": "Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T22:57:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Player.cs",
+              "RelativeDocumentMoniker": "Rock_Paper_Scissors\\Player.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Player.cs",
+              "RelativeToolTip": "Rock_Paper_Scissors\\Player.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:57:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "Rock_Paper_Scissors\\ComputerPlayer.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\ComputerPlayer.cs",
+              "RelativeToolTip": "Rock_Paper_Scissors\\ComputerPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:57:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Class1.cs",
               "RelativeDocumentMoniker": "Rock_Paper_Scissors\\Class1.cs",
-              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Class1.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Class1.cs",
               "RelativeToolTip": "Rock_Paper_Scissors\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T00:03:29.246Z",
               "EditorCaption": ""
@@ -37,13 +88,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs",
               "RelativeDocumentMoniker": "Rock_Paper_Scissors\\Program.cs",
-              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs",
               "RelativeToolTip": "Rock_Paper_Scissors\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T21:15:40.352Z"
+              "WhenOpened": "2026-02-23T21:15:40.352Z",
+              "EditorCaption": ""
             }
           ]
         }
