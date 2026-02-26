@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="logic_correct/logic_correct.csproj" Id="fb9f3e54-b838-416f-ac51-3860df03a9e3" />
+  <Project Path="Rock_Paper_Scissors Final/Rock_Paper_Scissors Final.csproj" Id="293853ea-df39-41fd-ac62-86f2890f289b" />
   <Project Path="Rock_Paper_Scissors/Rock_Paper_Scissors.csproj" />
 </Solution>
